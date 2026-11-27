@@ -1,0 +1,13 @@
+{
+    "name": "main-projekt",
+    "version": "1.0.0",
+    "scripts": {
+      "start": "lite-server"
+    },
+  
+    "devDependencies": {
+      "lite-server": "^2.6.2"
+    },
+    "description": "Frontend for BenutzerVerwaltungssystem"
+  
+  }

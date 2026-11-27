@@ -1,0 +1,6 @@
+{
+    "server": {
+      "baseDir": ["frontend/public", "frontend/src"]
+    }
+  }
+  
